@@ -1,3 +1,3 @@
 # IBA_JAVA
-Nsentsevitskaya Natallia
+Tsentsevitskaya Natallia
  pp-1.19
